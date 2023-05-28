@@ -1,7 +1,7 @@
 # bakery-webapp
 
 
-npm i
+```npm i```
 
 then use 
-npm run dev
+```npm run dev```
