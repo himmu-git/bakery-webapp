@@ -1,0 +1,2579 @@
+{
+    "page_info":{
+       "name":"restaurant",
+       "pageTitle":"Cake 'O' Clocks, MG Road, Gurgaon | Zomato ",
+       "pageDescription":"Cake 'O' Clocks Gurgaon, MG Road; View reviews, menu, contact, location, and more for Cake 'O' Clocks Restaurant.",
+       "resId":19467764,
+       "pageUrl":"\/ncr\/cake-o-clocks-mg-road",
+       "title":"Overview",
+       "subType":"restaurant",
+       "key":"restaurant",
+       "ogTitle":"Cake 'O' Clocks, MG Road, Gurgaon | Zomato ",
+       "ogDescription":"Cake 'O' Clocks Gurgaon, MG Road; View reviews, menu, contact, location, and more for Cake 'O' Clocks Restaurant.",
+       "ogUrl":"\/ncr\/cake-o-clocks-mg-road",
+       "ampHtmlUrl":"\/ncr\/cake-o-clocks-mg-road?amp=1",
+       "isFloodReliefRes":false,
+       "isNoIndex":false,
+       "show_rating_v15":true,
+       "isMobile":0,
+       "isOAuthV2Enabled":false,
+       "useAuthSdkForLogin":true,
+       "useAuthSdkForLogout":false,
+       "gaPageType":"Restaurant"
+    },
+    "page_data":{
+       "sections":{
+          "SECTION_IMAGE_CAROUSEL":{
+             "entities":[
+                {
+                   "entity_type":"IMAGES",
+                   "entity_ids":[
+                      "r_Y0OTUxODQ4MDkw",
+                      "r_zA5NwNjcyMzY3M",
+                      "r_kzNTQ0NTM4MDY2",
+                      "r_g5MDkxMDc0NTAw",
+                      "r_Y2MDUzNTU5MjAz",
+                      "r_NDY2NzI0OTgwMz",
+                      "r_Tk2NjYzMTE0Mzc",
+                      "u_OTU1ODEwMTUyMD",
+                      "r_3OTI5Nzk5OTUzM"
+                   ]
+                }
+             ],
+             "has_more_photo":true,
+             "obpImage":{
+                "entity_type":"IMAGES",
+                "entity_ids":"r_3OTI5Nzk5OTUzM"
+             },
+             "is_partner":false
+          },
+          "SECTION_BASIC_INFO":{
+             "res_id":19467764,
+             "name":"Cake 'O' Clocks",
+             "cuisine_string":"Desserts, Bakery",
+             "rating":{
+                "has_fake_reviews":0,
+                "aggregate_rating":"4.2",
+                "rating_text":"4.2",
+                "rating_subtitle":"Very Good",
+                "rating_color":"5BA829",
+                "votes":"4272",
+                "subtext":"REVIEWS",
+                "is_new":false
+             },
+             "rating_new":{
+                "newlyOpenedObj":null,
+                "suspiciousReviewObj":null,
+                "ratings":{
+                   "DINING":{
+                      "rating_type":"DINING",
+                      "rating":"",
+                      "reviewCount":"0",
+                      "reviewTextSmall":"0 Reviews",
+                      "subtext":"Does not offer Dining",
+                      "color":"",
+                      "ratingV2":"-",
+                      "subtitle":"DINING",
+                      "sideSubTitle":"Dining Reviews",
+                      "bgColorV2":{
+                         "type":"grey",
+                         "tint":"500"
+                      }
+                   },
+                   "DELIVERY":{
+                      "rating_type":"DELIVERY",
+                      "rating":"4.2",
+                      "reviewCount":"4,272",
+                      "reviewTextSmall":"4,272 Reviews",
+                      "subtext":"4,272 Delivery Reviews",
+                      "color":"#E23744",
+                      "ratingV2":"4.2",
+                      "subtitle":"DELIVERY",
+                      "sideSubTitle":"Delivery Reviews",
+                      "bgColorV2":{
+                         "type":"green",
+                         "tint":"700"
+                      },
+                      "newOnDelivery":false
+                   }
+                }
+             },
+             "res_status_text":"Open now",
+             "timing":{
+                "timing_desc":"12midnight \u2013 1am, 9am \u2013 12midnight (Today)",
+                "customised_timings":{
+                   "opening_hours":[
+                      {
+                         "timing":"12midnight \u2013 1am, 9am \u2013 12midnight",
+                         "days":"Mon, Wed, Fri-Sun"
+                      },
+                      {
+                         "timing":"12midnight \u2013 1am, 9:30am \u2013 12midnight",
+                         "days":"Tue"
+                      },
+                      {
+                         "timing":"12midnight \u2013 1am, 10am \u2013 12midnight",
+                         "days":"Thu"
+                      }
+                   ]
+                },
+                "show_open_now":true,
+                "show_timing_info":true
+             },
+             "is_delivery_only":false,
+             "is_perm_closed":false,
+             "is_temp_closed":false,
+             "is_opening_soon":0,
+             "should_ban_ugc":false,
+             "is_shelled":false,
+             "media_alert":0,
+             "learn_more_text":"Learn More",
+             "res_thumb":"https:\/\/b.zmtcdn.com\/data\/pictures\/4\/19467764\/a21a202384f4d17cc9bdeb8f7b968793_featured_v2.jpg?output-format=webp",
+             "disclaimer_text":"",
+             "resUrl":"\/ncr\/cake-o-clocks-mg-road",
+             "is_partner":false
+          },
+          "SECTION_FEATURE_RAIL":{
+             "SAFETY_TEMP":{
+                "title":"RESTAURANT SAFETY MEASURE",
+                "subtitle":"Daily Temp. Checks",
+                "image":"https:\/\/b.zmtcdn.com\/data\/o2_assets\/8ecc61badb80ea685f0afc71a4d721671585754288.png"
+             }
+          },
+          "SECTION_RES_HEADER_DETAILS":{
+             "LOCALITY":{
+                "text":"MG Road, Gurgaon",
+                "url":"https:\/\/www.zomato.com\/ncr\/mg-road-gurgaon-gurugram-restaurants"
+             },
+             "CUISINES":[
+                {
+                   "deeplink":"zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+                   "url":"https:\/\/www.zomato.com\/ncr\/restaurants\/desserts\/",
+                   "name":"Desserts"
+                },
+                {
+                   "deeplink":"zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNVwiXX0iXQ%3D%3D",
+                   "url":"https:\/\/www.zomato.com\/ncr\/restaurants\/bakery\/",
+                   "name":"Bakery"
+                }
+             ],
+             "ESTABLISHMENTS":[
+                
+             ]
+          },
+          "SECTION_RES_DETAILS":{
+             "KNOWN_FOR":[
+                
+             ],
+             "CUISINES":{
+                "title":"Cuisines",
+                "cuisines":[
+                   {
+                      "deeplink":"zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+                      "url":"https:\/\/www.zomato.com\/ncr\/restaurants\/desserts\/",
+                      "name":"Desserts"
+                   },
+                   {
+                      "deeplink":"zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNVwiXX0iXQ%3D%3D",
+                      "url":"https:\/\/www.zomato.com\/ncr\/restaurants\/bakery\/",
+                      "name":"Bakery"
+                   }
+                ]
+             },
+             "LOCALITY":[
+                
+             ],
+             "PEOPLE_LIKED":{
+                "title":"People Say This Place Is Known For",
+                "description":"Economical Price, Cashless Payments, Delicious Taste, Cute Packaging, Healthy and Delicious, Food Presentation"
+             },
+             "TOP_DISHES":[
+                
+             ],
+             "CFT_DETAILS":{
+                "title":"Average Cost",
+                "cfts":[
+                   {
+                      "title":"\u20b9200 for one order (approx.)",
+                      "subtitle":"Exclusive of applicable taxes and charges, if any"
+                   }
+                ]
+             },
+             "HIGHLIGHTS":{
+                "title":"More Info",
+                "highlights":[
+                   {
+                      "type":"AVAILABLE",
+                      "text":"Home Delivery"
+                   },
+                   {
+                      "type":"AVAILABLE",
+                      "text":"Takeaway Available"
+                   },
+                   {
+                      "type":"AVAILABLE",
+                      "text":"Desserts and Bakes"
+                   },
+                   {
+                      "type":"UNAVAILABLE",
+                      "text":"No Seating Available"
+                   }
+                ]
+             },
+             "FIRE_SAFETY":[
+                
+             ],
+             "CHEF_DETAILS":[
+                
+             ],
+             "MAGIC_CELLS":[
+                
+             ]
+          },
+          "SECTION_SPONSORED_ADS":{
+             "entities":[
+                {
+                   "entity_type":"AD_BANNERS",
+                   "entity_ids":[
+                      1694719,
+                      1715135,
+                      1841953,
+                      1861691,
+                      1861690,
+                      1861689
+                   ]
+                }
+             ]
+          },
+          "SECTION_USER_ACTIONS":{
+             "share":{
+                "url":"http:\/\/zoma.to\/r\/19467764"
+             },
+             "review":{
+                "reviewed":false
+             },
+             "photo":[
+                
+             ],
+             "bookmark":{
+                "count":915,
+                "bookmarked":false
+             }
+          },
+          "SECTION_RES_CONTACT":{
+             "city_id":1,
+             "city_name":"Gurgaon",
+             "country_id":1,
+             "country_name":"India",
+             "zipcode":"",
+             "is_dark_kitchen":false,
+             "locality_verbose":"MG Road, Gurgaon",
+             "latitude":"28.4757220000",
+             "longitude":"77.0616550000",
+             "static_map_url":"https:\/\/maps.zomato.com\/php\/staticmap?center=28.4757220000,77.0616550000&maptype=zomato&markers=28.4757220000,77.0616550000,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+             "address":"Shop 5, Plot 55, Kaushik Complex Sukhrali, MG Road, Gurgaon",
+             "is_phone_available":1,
+             "phoneDetails":{
+                "title":"Phone Numbers",
+                "phoneStr":"+919311663361"
+             },
+             "res_chain_text":"See all 12 Cake 'O' Clocks outlets in Delhi NCR",
+             "res_group_text":"",
+             "res_chain_url":"https:\/\/www.zomato.com\/ncr\/restaurants\/cakeoclocks-1",
+             "res_group_url":"",
+             "show_res_map":true
+          },
+          "SECTION_TOP_TAGS":[
+             {
+                "title":"Economical Price",
+                "deeplink":"zomato:\/\/restaurant\/19467764\/reviews",
+                "post_key":"{\"tags\":{\"tag\":\"economical price\"}}"
+             },
+             {
+                "title":"Cashless Payments",
+                "deeplink":"zomato:\/\/restaurant\/19467764\/reviews",
+                "post_key":"{\"tags\":{\"tag\":\"cashless payments\"}}"
+             },
+             {
+                "title":"Delicious Taste",
+                "deeplink":"zomato:\/\/restaurant\/19467764\/reviews",
+                "post_key":"{\"tags\":{\"tag\":\"delicious taste\"}}"
+             },
+             {
+                "title":"Cute Packaging",
+                "deeplink":"zomato:\/\/restaurant\/19467764\/reviews",
+                "post_key":"{\"tags\":{\"tag\":\"cute packaging\"}}"
+             },
+             {
+                "title":"Healthy and Delicious",
+                "deeplink":"zomato:\/\/restaurant\/19467764\/reviews",
+                "post_key":"{\"tags\":{\"tag\":\"healthy and delicious\"}}"
+             },
+             {
+                "title":"Food Presentation",
+                "deeplink":"zomato:\/\/restaurant\/19467764\/reviews",
+                "post_key":"{\"tags\":{\"tag\":\"food presentation\"}}"
+             }
+          ],
+          "SECTION_REVIEW_HIGHLIGHTS":{
+             "status":"",
+             "message":"",
+             "entities":[
+                {
+                   "entity_type":"REVIEWS",
+                   "entity_ids":[
+                      119203165,
+                      67297521
+                   ]
+                }
+             ],
+             "pageReviewsText":"",
+             "numberOfPages":0,
+             "noReviewsText":"",
+             "currentPage":1,
+             "currentFilter":"reviews-dd",
+             "currentSort":"dd"
+          },
+          "SECTION_SIMILAR_RES":{
+             "entities":[
+                {
+                   "entity_type":"RESTAURANTS",
+                   "entity_ids":[
+                      18161569,
+                      18462214,
+                      18578057,
+                      18291476,
+                      19252175
+                   ]
+                }
+             ]
+          },
+          "SECTION_OBP_TAGS":[
+             
+          ],
+          "SECTION_MAGIC_LINKS":[
+             {
+                "title":"Related to Cake 'O' Clocks, MG Road",
+                "magicLinks":[
+                   {
+                      "url":"https:\/\/www.zomato.com\/ncr",
+                      "title":"Gurgaon Restaurants",
+                      "displayName":"Restaurants in Gurgaon, Gurgaon Restaurants"
+                   },
+                   {
+                      "url":"https:\/\/www.zomato.com\/ncr\/mg-road-gurgaon-gurugram-restaurants",
+                      "title":"MG Road restaurants",
+                      "displayName":"MG Road restaurants"
+                   },
+                   {
+                      "url":"https:\/\/www.zomato.com\/ncr\/best-mg-road-gurgaon-restaurants",
+                      "title":"Best MG Road restaurants",
+                      "displayName":"Best MG Road restaurants"
+                   },
+                   {
+                      "url":"https:\/\/www.zomato.com\/ncr\/gurgaon-restaurants",
+                      "title":"Gurgaon (Gurugram) restaurants",
+                      "displayName":"Gurgaon (Gurugram) restaurants"
+                   },
+                   {
+                      "url":"https:\/\/www.zomato.com\/ncr",
+                      "title":" in Delhi NCR",
+                      "displayName":" in Delhi NCR"
+                   },
+                   {
+                      "url":"https:\/\/www.zomato.com\/restaurants-near-me",
+                      "title":" near me",
+                      "displayName":" near me"
+                   },
+                   {
+                      "url":"https:\/\/www.zomato.com\/ncr\/gurgaon-restaurants",
+                      "title":" in Gurgaon (Gurugram)",
+                      "displayName":" in Gurgaon (Gurugram)"
+                   },
+                   {
+                      "url":"https:\/\/www.zomato.com\/ncr\/mg-road-gurgaon-gurugram-restaurants",
+                      "title":" in MG Road",
+                      "displayName":" in MG Road"
+                   },
+                   {
+                      "url":"https:\/\/www.zomato.com\/ncr",
+                      "title":" in Delhi NCR",
+                      "displayName":" in Delhi NCR"
+                   },
+                   {
+                      "url":"https:\/\/www.zomato.com\/restaurants-near-me",
+                      "title":" near me",
+                      "displayName":" near me"
+                   },
+                   {
+                      "url":"https:\/\/www.zomato.com\/ncr\/gurgaon-restaurants",
+                      "title":" in Gurgaon (Gurugram)",
+                      "displayName":" in Gurgaon (Gurugram)"
+                   },
+                   {
+                      "url":"https:\/\/www.zomato.com\/ncr\/mg-road-gurgaon-gurugram-restaurants",
+                      "title":" in MG Road",
+                      "displayName":" in MG Road"
+                   },
+                   {
+                      "url":"https:\/\/www.zomato.com\/ncr\/mg-road-gurgaon-order-online",
+                      "title":"Order food online in MG Road",
+                      "displayName":"Order food online in MG Road"
+                   },
+                   {
+                      "url":"https:\/\/www.zomato.com\/ncr\/order-food-online",
+                      "title":"Order food online in Delhi NCR",
+                      "displayName":"Order food online in Delhi NCR"
+                   },
+                   {
+                      "url":"https:\/\/www.zomato.com\/ncr\/gurgaon-order-online",
+                      "title":"Order food online in Gurgaon (Gurugram)",
+                      "displayName":"Order food online in Gurgaon (Gurugram)"
+                   },
+                   {
+                      "url":"https:\/\/www.zomato.com\/ncr\/newyear",
+                      "title":"New Year Parties in Delhi NCR",
+                      "displayName":"New Year Parties in Delhi NCR"
+                   },
+                   {
+                      "url":"https:\/\/www.zomato.com\/ncr\/christmas",
+                      "title":"Christmas' Special in Delhi NCR",
+                      "displayName":"Christmas' Special in Delhi NCR"
+                   }
+                ]
+             },
+             {
+                "title":"Restaurants around MG Road",
+                "magicLinks":[
+                   {
+                      "url":"https:\/\/www.zomato.com\/ncr\/dlf-phase-2-restaurants",
+                      "title":"List of DLF Phase 2 restaurants",
+                      "displayName":"DLF Phase 2 restaurants"
+                   },
+                   {
+                      "url":"https:\/\/www.zomato.com\/ncr\/sikandarpur-restaurants",
+                      "title":"List of Sikandarpur restaurants",
+                      "displayName":"Sikandarpur restaurants"
+                   },
+                   {
+                      "url":"https:\/\/www.zomato.com\/ncr\/dlf-phase-4-restaurants",
+                      "title":"List of DLF Phase 4 restaurants",
+                      "displayName":"DLF Phase 4 restaurants"
+                   },
+                   {
+                      "url":"https:\/\/www.zomato.com\/ncr\/dlf-cyber-city-restaurants",
+                      "title":"List of DLF Cyber City restaurants",
+                      "displayName":"DLF Cyber City restaurants"
+                   }
+                ]
+             },
+             {
+                "title":"Frequent searches leading to this page",
+                "magicLinks":[
+                   {
+                      "url":"https:\/\/www.zomato.com\/ncr\/cake-o-clocks-mg-road",
+                      "title":"",
+                      "displayName":"cake 'o' clocks menu"
+                   },
+                   {
+                      "url":"https:\/\/www.zomato.com\/ncr\/cake-o-clocks-mg-road",
+                      "title":"",
+                      "displayName":"cake 'o' clocks mg road menu"
+                   },
+                   {
+                      "url":"https:\/\/www.zomato.com\/ncr\/cake-o-clocks-mg-road",
+                      "title":"",
+                      "displayName":"cake 'o' clocks gurgaon"
+                   },
+                   {
+                      "url":"https:\/\/www.zomato.com\/ncr\/cake-o-clocks-mg-road",
+                      "title":"",
+                      "displayName":"cake 'o' clocks gurgaon menu"
+                   },
+                   {
+                      "url":"https:\/\/www.zomato.com\/ncr\/cake-o-clocks-mg-road",
+                      "title":"",
+                      "displayName":"cake 'o' clocks  restaurant"
+                   }
+                ]
+             },
+             {
+                "title":"Top Stores",
+                "magicLinks":[
+                   {
+                      "url":"https:\/\/www.zomato.com\/ncr\/cakeoclocks-mayur-vihar-phase-3-new-delhi",
+                      "displayName":"Mayur Vihar Phase 3"
+                   },
+                   {
+                      "url":"https:\/\/www.zomato.com\/ncr\/cake-o-clocks-vaishali-ghaziabad",
+                      "displayName":"Vaishali"
+                   },
+                   {
+                      "url":"https:\/\/www.zomato.com\/ncr\/cake-o-clocks-sector-72-noida",
+                      "displayName":"Sector 72"
+                   },
+                   {
+                      "url":"https:\/\/www.zomato.com\/ncr\/cake-o-clocks-raj-nagar-ghaziabad",
+                      "displayName":"Raj Nagar"
+                   },
+                   {
+                      "url":"https:\/\/www.zomato.com\/ncr\/cake-o-clocks-sector-57",
+                      "displayName":"Sector 57"
+                   },
+                   {
+                      "url":"https:\/\/www.zomato.com\/ncr\/cake-o-clocks-vijay-nagar-new-delhi",
+                      "displayName":"Vijay Nagar"
+                   }
+                ]
+             }
+          ],
+          "SECTION_RATING_DATA":{
+             "header":"Rate your delivery experience",
+             "options":[
+                {
+                   "value":"delivery",
+                   "label":"Delivery"
+                }
+             ],
+             "selected":"delivery"
+          },
+          "SECTION_BREADCRUMBS":[
+             {
+                "title":"Home",
+                "url":"https:\/\/www.zomato.com"
+             },
+             {
+                "title":"India",
+                "url":"https:\/\/www.zomato.com\/india"
+             },
+             {
+                "title":"Delhi NCR",
+                "url":"https:\/\/www.zomato.com\/ncr\/restaurants"
+             },
+             {
+                "title":"Gurgaon (Gurugram)",
+                "url":"https:\/\/www.zomato.com\/ncr\/gurgaon-restaurants"
+             },
+             {
+                "title":"MG Road",
+                "url":"https:\/\/www.zomato.com\/ncr\/mg-road-gurgaon-gurugram-restaurants"
+             },
+             {
+                "title":"Cake 'O' Clocks",
+                "url":""
+             }
+          ],
+          "SECTION_FOOTER":{
+             "sectionTitle":"HELP US MAKE ZOMATO BETTER",
+             "error":{
+                "title":"Report an error in this listing",
+                "subtitle":"Help us make Zomato more updated and relevant for everyone",
+                "buttonText":"Report now",
+                "errorModalData":{
+                   "title":"Report an error",
+                   "optionsSection":{
+                      "title":"What's wrong?",
+                      "options":{
+                         "error_report_phone":"Phone No.",
+                         "error_report_address":"Address",
+                         "error_report_menu":"Menu incorrect\/outdated",
+                         "error_report_other":"Other"
+                      }
+                   },
+                   "emailSection":{
+                      "title":"Email (optional)",
+                      "errorMsg":"Please enter a valid email"
+                   },
+                   "moreInfoSection":{
+                      "title":"Text (optional)",
+                      "placeHolder":"If there is any additional information you would like to display on your restaurant page, such as features or cuisines not already listed above, please mention it here."
+                   },
+                   "buttonText":"Report",
+                   "afterSubmitText":"Thank you, we'll get to it asap."
+                }
+             },
+             "claim":{
+                "isClaimed":true,
+                "title":"Claim this listing",
+                "subtitle":"Claim this listing to get access to a free management and analytics dashboard, where you can edit information, track your page views, and more.",
+                "buttonText":"Claim now",
+                "url":"https:\/\/www.zomato.com\/partner_with_us\/ownership?resId=19467764"
+             },
+             "spoonback":{
+                "title":"Are you a food blogger?",
+                "buttonText":"Add a Zomato spoonback to your blog.",
+                "url":"https:\/\/www.zomato.com\/spoonbacks\/19467764"
+             }
+          },
+          "SECTION_FULL_PAGE_AD":{
+             "ad":null,
+             "incrementCount":false
+          },
+          "SECTION_OPEN_APP_MODAL_INFO":{
+             "backgroundImageUrl":"https:\/\/b.zmtcdn.com\/data\/o2_assets\/800315731f7ad44396cbac9e69d89f721613462226.png?output-format=webp",
+             "topRightIconUrl":"https:\/\/b.zmtcdn.com\/data\/o2_assets\/cd2a4c009a73c5bbb7831557f1a5b56d1613463455.png?output-format=webp",
+             "OPEN_APP_MODAL_CLICK_ACTION_TEXT":"Order on App",
+             "OPEN_APP_MODAL_CLOSE_ACTION_TEXT":"Not Now",
+             "OPEN_APP_MODAL_TITLE_TEXT":"<span class='modal-title'>Upto <\/span><span class='modal-title-red'>50% off<\/span><span class='modal-title'> and <\/span><span class='modal-title-red'>free delivery <\/span><br \/><span class='modal-title'>on your first order<\/span>",
+             "OPEN_APP_MODAL_DESCRIPTION_TEXT":"Switch to the app for exclusive discounts,<br \/> live order tracking and more.",
+             "OPEN_APP_MODAL_TRY_APP_TAG":"TRY THE ZOMATO APP"
+          },
+          "SECTION_DINING_OFFERS":[
+             false,
+             {
+                "title":"Bank offers\n15% OFF upto \u20b9750",
+                "subtitle":"and more with other banks",
+                "image":"https:\/\/b.zmtcdn.com\/data\/o2_assets\/667b05b3de7448bcc6c143f28302c8321678884474.png?output-format=webp",
+                "offerType":"bank_offer",
+                "nonBankPromo":false,
+                "offerDetails":{
+                   "title":"Get 15% OFF upto \u20b9750 using Federal Bank Credit card",
+                   "subtitle":"Valid on final payable amount of \u20b93000 or more",
+                   "bank_logo":"",
+                   "bank_rail_image":"",
+                   "bank_billboard_image":"",
+                   "bank_name":"",
+                   "deals_title":"",
+                   "voucher_code":"DININGFEDERALCC",
+                   "terms":[
+                      "Offer valid once per user during the offer period",
+                      "Offer applicable only on final billable amount net of other discounts (excluding tips)",
+                      "Restaurants applicable under this program can be found on Zomato app & are subject to change from time to time",
+                      "Other T&Cs may apply"
+                   ],
+                   "bank_logo_small":"",
+                   "res_page_sub_title":"",
+                   "offer_value":15,
+                   "min_order_value":0,
+                   "max_discount":750,
+                   "card_bin":[
+                      "536881",
+                      "555598",
+                      "540564",
+                      "451458",
+                      "468798",
+                      "467741",
+                      "356138"
+                   ],
+                   "payment_method_type":"",
+                   "absolute_discount":0,
+                   "offer_heading":"",
+                   "value":"15% OFF upto \u20b9750",
+                   "offer_subtext":"",
+                   "offer_logo":""
+                }
+             }
+          ],
+          "SECTION_APP_DEEPLINK":{
+             "restaurant_page":"https:\/\/bnc.lt\/WJml\/Kl4goWggQfb?deeplink_url=zomato%3A%2F%2Fr%2F19467764%3Futm_campaign%3D0686dce61bb44aeb297d122cbdcd1def%26utm_source%3Dmweb%26utm_medium%3DResOrderClickNormal"
+          },
+          "SECTION_VENUE_FINDER_DEEPLINK_DATA":{
+             "res_webview_deeplink":"https:\/\/www.zomato.com\/?open_type=push&share_content=share_content&deeplink_url=zomato%3A%2F%2Fr%2F19467764&action=zpl_navigate",
+             "platform":""
+          }
+       },
+       "navbarSection":[
+          {
+             "name":"restaurant",
+             "pageTitle":"Cake 'O' Clocks, MG Road, Gurgaon | Zomato ",
+             "pageDescription":"Cake 'O' Clocks Gurgaon, MG Road; View reviews, menu, contact, location, and more for Cake 'O' Clocks Restaurant.",
+             "resId":19467764,
+             "pageUrl":"\/ncr\/cake-o-clocks-mg-road",
+             "title":"Overview",
+             "subType":"restaurant",
+             "key":"restaurant",
+             "ogTitle":"Cake 'O' Clocks, MG Road, Gurgaon | Zomato ",
+             "ogDescription":"Cake 'O' Clocks Gurgaon, MG Road; View reviews, menu, contact, location, and more for Cake 'O' Clocks Restaurant.",
+             "ogUrl":"\/ncr\/cake-o-clocks-mg-road",
+             "ampHtmlUrl":"\/ncr\/cake-o-clocks-mg-road?amp=1",
+             "isFloodReliefRes":false,
+             "isNoIndex":false
+          },
+          {
+             "name":"restaurant",
+             "pageTitle":"Cake 'O' Clocks, MG Road order online - Zomato",
+             "pageDescription":"Order food online from Cake 'O' Clocks, MG Road, Gurgaon and get great offers and super-fast delivery on Zomato.",
+             "resId":19467764,
+             "pageUrl":"\/ncr\/cake-o-clocks-mg-road\/order",
+             "title":"Order Online",
+             "subType":"order",
+             "key":"order",
+             "ogTitle":"Cake 'O' Clocks, MG Road order online - Zomato",
+             "ogDescription":"Order food online from Cake 'O' Clocks, MG Road, Gurgaon and get great offers and super-fast delivery on Zomato.",
+             "ogUrl":"\/ncr\/cake-o-clocks-mg-road\/order",
+             "ampHtmlUrl":"",
+             "isFloodReliefRes":false,
+             "isNoIndex":false,
+             "checkoutUrl":"\/ncr\/cake-o-clocks-mg-road\/order\/verify"
+          },
+          {
+             "name":"restaurant",
+             "pageTitle":"Reviews of Cake 'O' Clocks, MG Road, Gurgaon | Zomato ",
+             "pageDescription":"Reviews of Cake 'O' Clocks MG Road; see all unbiased reviews of Cake 'O' Clocks Gurgaon for delivery and dining on Zomato.",
+             "resId":19467764,
+             "pageUrl":"\/ncr\/cake-o-clocks-mg-road\/reviews",
+             "title":"Reviews",
+             "subType":"reviews",
+             "key":"reviews",
+             "ogTitle":"Reviews of Cake 'O' Clocks, MG Road, Gurgaon | Zomato ",
+             "ogDescription":"Reviews of Cake 'O' Clocks MG Road; see all unbiased reviews of Cake 'O' Clocks Gurgaon for delivery and dining on Zomato.",
+             "ogUrl":"\/ncr\/cake-o-clocks-mg-road\/reviews",
+             "ampHtmlUrl":"\/ncr\/cake-o-clocks-mg-road\/reviews?amp=1",
+             "isFloodReliefRes":false,
+             "isNoIndex":false
+          },
+          {
+             "name":"restaurant",
+             "pageTitle":"Photos of Cake 'O' Clocks, Pictures of Cake 'O' Clocks, Gurgaon | Zomato ",
+             "pageDescription":"Photos of Cake 'O' Clocks, MG Road, Gurgaon; View pictures of food and ambience Cake 'O' Clocks, Gurgaon.",
+             "resId":19467764,
+             "pageUrl":"\/ncr\/cake-o-clocks-mg-road\/photos",
+             "title":"Photos",
+             "subType":"photos",
+             "key":"photos",
+             "ogTitle":"Photos of Cake 'O' Clocks, Pictures of Cake 'O' Clocks, Gurgaon | Zomato ",
+             "ogDescription":"Photos of Cake 'O' Clocks, MG Road, Gurgaon; View pictures of food and ambience Cake 'O' Clocks, Gurgaon.",
+             "ogUrl":"\/ncr\/cake-o-clocks-mg-road\/photos",
+             "ampHtmlUrl":"\/ncr\/cake-o-clocks-mg-road\/photos?amp=1",
+             "isFloodReliefRes":false,
+             "isNoIndex":false
+          }
+       ],
+       "hasAds":false,
+       "trackingDataLogin":{
+          "googleAdsPayload":{
+             "mobileProfileIconClick":{
+                "eventName":"conversion",
+                "payload":{
+                   "send_to":"AW-958674130\/gEmzCLCZwfABENLpkMkD"
+                }
+             },
+             "loginClick":{
+                "eventName":"conversion",
+                "payload":{
+                   "send_to":"AW-958674130\/MOW8CIO6-uwBENLpkMkD"
+                }
+             },
+             "signupClick":{
+                "eventName":"conversion",
+                "payload":{
+                   "send_to":"AW-958674130\/M4gKCJi9-uwBENLpkMkD"
+                }
+             },
+             "signupSuccess":{
+                "eventName":"conversion",
+                "payload":{
+                   "send_to":"AW-958674130\/NWiMCPrDne0BENLpkMkD"
+                }
+             }
+          }
+       }
+    },
+    "entities":{
+       "PHOTO_COMMENTS":{
+          "1065450":{
+             "commentId":1065450,
+             "comment":"Loved the quality of cakes! They&rsquo;re super tasty \u2764\ufe0f",
+             "commentUserId":65759975,
+             "userProfilePic":"https:\/\/b.zmtcdn.com\/web\/assets\/2267aec184e096c98c46a1565a5563661664945464.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+             "userProfileUrl":"https:\/\/www.zomato.com\/users\/arya-65759975",
+             "userName":"Arya",
+             "timestamp":"Mar 30, 2021",
+             "isEditable":false
+          }
+       },
+       "IMAGES":{
+          "r_Y0OTUxODQ4MDkw":{
+             "photoId":"r_Y0OTUxODQ4MDkw",
+             "url":"https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/3\/19426403\/00bba80c6fe63f23255a174f3614e87f.jpg?output-format=webp",
+             "thumbUrl":"https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/3\/19426403\/00bba80c6fe63f23255a174f3614e87f.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+             "uploaderName":"Zomato",
+             "uploaderProfilePic":"https:\/\/b.zmtcdn.com\/images\/square_zomato_logo_new.svg",
+             "uploaderProfileUrl":"",
+             "timestamp":"Dec 06, 2020",
+             "likeCount":1,
+             "commentCount":0,
+             "comments":[
+                
+             ],
+             "isLiked":0,
+             "hash":""
+          },
+          "r_zA5NwNjcyMzY3M":{
+             "photoId":"r_zA5NwNjcyMzY3M",
+             "url":"https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/3\/19426403\/dda13be84ec1e7a44f82877354a141c4.jpg?output-format=webp",
+             "thumbUrl":"https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/3\/19426403\/dda13be84ec1e7a44f82877354a141c4.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+             "uploaderName":"Zomato",
+             "uploaderProfilePic":"https:\/\/b.zmtcdn.com\/images\/square_zomato_logo_new.svg",
+             "uploaderProfileUrl":"",
+             "timestamp":"Dec 06, 2020",
+             "likeCount":3,
+             "commentCount":0,
+             "comments":[
+                
+             ],
+             "isLiked":0,
+             "hash":""
+          },
+          "r_kzNTQ0NTM4MDY2":{
+             "photoId":"r_kzNTQ0NTM4MDY2",
+             "url":"https:\/\/b.zmtcdn.com\/data\/pictures\/4\/19467764\/a153eeeeac8e86e5f204341bd505d6ab.jpg?output-format=webp",
+             "thumbUrl":"https:\/\/b.zmtcdn.com\/data\/pictures\/4\/19467764\/a153eeeeac8e86e5f204341bd505d6ab.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+             "uploaderName":"Zomato",
+             "uploaderProfilePic":"https:\/\/b.zmtcdn.com\/images\/square_zomato_logo_new.svg",
+             "uploaderProfileUrl":"",
+             "timestamp":"Jan 05, 2021",
+             "likeCount":0,
+             "commentCount":0,
+             "comments":[
+                
+             ],
+             "isLiked":0,
+             "hash":""
+          },
+          "r_g5MDkxMDc0NTAw":{
+             "photoId":"r_g5MDkxMDc0NTAw",
+             "url":"https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/3\/19426403\/e6a5da9dc8247cfe6ac455dd28549484.jpg?output-format=webp",
+             "thumbUrl":"https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/3\/19426403\/e6a5da9dc8247cfe6ac455dd28549484.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+             "uploaderName":"Zomato",
+             "uploaderProfilePic":"https:\/\/b.zmtcdn.com\/images\/square_zomato_logo_new.svg",
+             "uploaderProfileUrl":"",
+             "timestamp":"Dec 06, 2020",
+             "likeCount":1,
+             "commentCount":1,
+             "comments":{
+                "entities":[
+                   {
+                      "entity_type":"PHOTO_COMMENTS",
+                      "entity_ids":[
+                         1065450
+                      ]
+                   }
+                ]
+             },
+             "isLiked":0,
+             "hash":""
+          },
+          "r_Y2MDUzNTU5MjAz":{
+             "photoId":"r_Y2MDUzNTU5MjAz",
+             "url":"https:\/\/b.zmtcdn.com\/data\/pictures\/4\/19467764\/6f0a6dba817bf199fe8489592bf0b6bc.jpg?output-format=webp",
+             "thumbUrl":"https:\/\/b.zmtcdn.com\/data\/pictures\/4\/19467764\/6f0a6dba817bf199fe8489592bf0b6bc.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+             "uploaderName":"Zomato",
+             "uploaderProfilePic":"https:\/\/b.zmtcdn.com\/images\/square_zomato_logo_new.svg",
+             "uploaderProfileUrl":"",
+             "timestamp":"Jan 04, 2021",
+             "likeCount":1,
+             "commentCount":1,
+             "comments":[
+                
+             ],
+             "isLiked":0,
+             "hash":""
+          },
+          "r_NDY2NzI0OTgwMz":{
+             "photoId":"r_NDY2NzI0OTgwMz",
+             "url":"https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/3\/19426403\/6f0a6dba817bf199fe8489592bf0b6bc.jpg?output-format=webp",
+             "thumbUrl":"https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/3\/19426403\/6f0a6dba817bf199fe8489592bf0b6bc.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+             "uploaderName":"Zomato",
+             "uploaderProfilePic":"https:\/\/b.zmtcdn.com\/images\/square_zomato_logo_new.svg",
+             "uploaderProfileUrl":"",
+             "timestamp":"Jan 04, 2021",
+             "likeCount":1,
+             "commentCount":0,
+             "comments":[
+                
+             ],
+             "isLiked":0,
+             "hash":""
+          },
+          "r_Tk2NjYzMTE0Mzc":{
+             "photoId":"r_Tk2NjYzMTE0Mzc",
+             "url":"https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/3\/19426403\/f0073f3ef03f6f196b3b922d1e2ec7bc.jpg?output-format=webp",
+             "thumbUrl":"https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/3\/19426403\/f0073f3ef03f6f196b3b922d1e2ec7bc.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+             "uploaderName":"Zomato",
+             "uploaderProfilePic":"https:\/\/b.zmtcdn.com\/images\/square_zomato_logo_new.svg",
+             "uploaderProfileUrl":"",
+             "timestamp":"Jan 14, 2021",
+             "likeCount":3,
+             "commentCount":0,
+             "comments":[
+                
+             ],
+             "isLiked":0,
+             "hash":""
+          },
+          "r_3OTI5Nzk5OTUzM":{
+             "photoId":"r_3OTI5Nzk5OTUzM",
+             "url":"https:\/\/b.zmtcdn.com\/data\/pictures\/4\/19467764\/72b4e72401db36fdd21bcb349d531214.jpg?output-format=webp",
+             "thumbUrl":"https:\/\/b.zmtcdn.com\/data\/pictures\/4\/19467764\/72b4e72401db36fdd21bcb349d531214.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+             "uploaderName":"Zomato",
+             "uploaderProfilePic":"https:\/\/b.zmtcdn.com\/images\/square_zomato_logo_new.svg",
+             "uploaderProfileUrl":"",
+             "timestamp":"Jan 29, 2021",
+             "likeCount":0,
+             "commentCount":0,
+             "comments":[
+                
+             ],
+             "isLiked":0,
+             "hash":""
+          },
+          "u_OTU1ODEwMTUyMD":{
+             "photoId":"u_OTU1ODEwMTUyMD",
+             "url":"https:\/\/b.zmtcdn.com\/data\/reviews_photos\/73d\/1c1c1dd1186f1d5471eec41b2434773d_1626541771.jpg?output-format=webp",
+             "thumbUrl":"https:\/\/b.zmtcdn.com\/data\/reviews_photos\/73d\/1c1c1dd1186f1d5471eec41b2434773d_1626541771.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+             "uploaderName":"Bikash Mahato",
+             "uploaderProfilePic":"https:\/\/b.zmtcdn.com\/data\/user_profile_pictures\/a75\/c7fd4630fae603a6fadbe68b0304aa75.jpg?fit=around%7C100%3A100&crop=100%3A100%3B%2A%2C%2A",
+             "uploaderProfileUrl":"https:\/\/www.zomato.com\/users\/bikash-mahato-157446755",
+             "timestamp":"Jul 17, 2021",
+             "likeCount":0,
+             "commentCount":0,
+             "comments":[
+                
+             ],
+             "isLiked":0,
+             "hash":""
+          },
+          "u_Dk0MDM1MTg3Njc":{
+             "photoId":"u_Dk0MDM1MTg3Njc",
+             "url":"https:\/\/b.zmtcdn.com\/data\/reviews_photos\/0c7\/59d4062cbc2e1eb604d1a96ddae530c7_1667356094.jpg?output-format=webp",
+             "thumbUrl":"https:\/\/b.zmtcdn.com\/data\/reviews_photos\/0c7\/59d4062cbc2e1eb604d1a96ddae530c7_1667356094.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+             "uploaderName":"Passionate Foodie",
+             "uploaderProfilePic":"https:\/\/b.zmtcdn.com\/data\/user_profile_pictures\/7df\/65a0534b127ce3f35faa54b82caaa7df.jpg?fit=around%7C100%3A100&crop=100%3A100%3B%2A%2C%2A",
+             "uploaderProfileUrl":"https:\/\/www.zomato.com\/instaru05",
+             "timestamp":"6 months ago",
+             "likeCount":0,
+             "commentCount":0,
+             "comments":[
+                
+             ],
+             "isLiked":0,
+             "hash":"59d4062cbc2e1eb604d1a96ddae530c7"
+          },
+          "u_zI2NDUxODcxMDM":{
+             "photoId":"u_zI2NDUxODcxMDM",
+             "url":"https:\/\/b.zmtcdn.com\/data\/reviews_photos\/da9\/5ab4ce9ba57285997c680bdcbdb8bda9_1624611278.jpg?output-format=webp",
+             "thumbUrl":"https:\/\/b.zmtcdn.com\/data\/reviews_photos\/da9\/5ab4ce9ba57285997c680bdcbdb8bda9_1624611278.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+             "uploaderName":"Himanshu Tanwar",
+             "uploaderProfilePic":"https:\/\/b.zmtcdn.com\/data\/user_profile_pictures\/dfc\/c85cec40ee708d8bcfa8c20314aa8dfc.jpg?fit=around%7C100%3A100&crop=100%3A100%3B%2A%2C%2A",
+             "uploaderProfileUrl":"https:\/\/www.zomato.com\/users\/himanshu-tanwar-112601671",
+             "timestamp":"Jun 25, 2021",
+             "likeCount":0,
+             "commentCount":0,
+             "comments":[
+                
+             ],
+             "isLiked":0,
+             "hash":"5ab4ce9ba57285997c680bdcbdb8bda9"
+          }
+       },
+       "AD_BANNERS":{
+          "1694719":{
+             "bannerId":1694719,
+             "title":"Ping's Bia Hoi",
+             "subtitle":"Chinese, Japanese, Korean, Ice Cream",
+             "imageUrl":"https:\/\/b.zmtcdn.com\/data\/pictures\/4\/19696024\/990b206b764c0b219332968e9923feaa_featured_v2.jpg?output-format=webp",
+             "rating":{
+                "has_fake_reviews":0,
+                "aggregate_rating":"4.3",
+                "rating_text":"4.3",
+                "rating_subtitle":"Very Good",
+                "rating_color":"5BA829",
+                "votes":"1,143",
+                "subtext":"REVIEW",
+                "is_new":false
+             },
+             "rating_new":{
+                "newlyOpenedObj":null,
+                "suspiciousReviewObj":null,
+                "ratings":{
+                   "DINING":{
+                      "rating_type":"DINING",
+                      "rating":"4.3",
+                      "reviewCount":"617",
+                      "reviewTextSmall":"617 Reviews",
+                      "subtext":"617 Dining Reviews",
+                      "color":"#1C1C1C",
+                      "ratingV2":"4.3",
+                      "subtitle":"DINING",
+                      "sideSubTitle":"Dining Reviews",
+                      "bgColorV2":{
+                         "type":"green",
+                         "tint":"700"
+                      }
+                   },
+                   "DELIVERY":{
+                      "rating_type":"DELIVERY",
+                      "rating":"4.2",
+                      "reviewCount":"526",
+                      "reviewTextSmall":"526 Reviews",
+                      "subtext":"526 Delivery Reviews",
+                      "color":"#E23744",
+                      "ratingV2":"4.2",
+                      "subtitle":"DELIVERY",
+                      "sideSubTitle":"Delivery Reviews",
+                      "bgColorV2":{
+                         "type":"green",
+                         "tint":"700"
+                      },
+                      "newOnDelivery":false
+                   }
+                }
+             },
+             "url":"https:\/\/www.zomato.com\/ncr\/pings-bia-hoi-golf-course-road",
+             "trackingData":[
+                {
+                   "key":"banner_id",
+                   "value":"1694719"
+                },
+                {
+                   "key":"bzone",
+                   "value":"19892"
+                },
+                {
+                   "key":"campaign_id",
+                   "value":"10587059"
+                },
+                {
+                   "key":"category_id",
+                   "value":"1"
+                },
+                {
+                   "key":"location_type",
+                   "value":"city"
+                },
+                {
+                   "key":"location_id",
+                   "value":"1"
+                },
+                {
+                   "key":"display_page",
+                   "value":"restaurant"
+                },
+                {
+                   "key":"entity_type",
+                   "value":"restaurant"
+                },
+                {
+                   "key":"entity_id",
+                   "value":"19696024"
+                },
+                {
+                   "key":"isNewAd",
+                   "value":"34"
+                },
+                {
+                   "key":"ad_position",
+                   "value":"1"
+                },
+                {
+                   "key":"slider_position",
+                   "value":"1"
+                },
+                {
+                   "key":"slider_sequence",
+                   "value":"1"
+                },
+                {
+                   "key":"creative_id",
+                   "value":"0"
+                },
+                {
+                   "key":"collection_id",
+                   "value":"0"
+                },
+                {
+                   "key":"data",
+                   "value":"{\"similarity_score\":0.6233575344085693,\"cpc\":\"27.893280\",\"leader_type\":\"restaurant\",\"leader_id\":19467764}"
+                }
+             ]
+          },
+          "1715135":{
+             "bannerId":1715135,
+             "title":"Kampai",
+             "subtitle":"Japanese, Sushi, Asian, Oriental, Beverages",
+             "imageUrl":"https:\/\/b.zmtcdn.com\/data\/pictures\/8\/18808498\/c9d6cb783ee5c510f0cecad39ce0c45f_featured_v2.jpg?output-format=webp",
+             "rating":{
+                "has_fake_reviews":0,
+                "aggregate_rating":"4.0",
+                "rating_text":"4.0",
+                "rating_subtitle":"Very Good",
+                "rating_color":"5BA829",
+                "votes":"768",
+                "subtext":"REVIEWS",
+                "is_new":false
+             },
+             "rating_new":{
+                "newlyOpenedObj":null,
+                "suspiciousReviewObj":null,
+                "ratings":{
+                   "DINING":{
+                      "rating_type":"DINING",
+                      "rating":"4.2",
+                      "reviewCount":"653",
+                      "reviewTextSmall":"653 Reviews",
+                      "subtext":"653 Dining Reviews",
+                      "color":"#1C1C1C",
+                      "ratingV2":"4.2",
+                      "subtitle":"DINING",
+                      "sideSubTitle":"Dining Reviews",
+                      "bgColorV2":{
+                         "type":"green",
+                         "tint":"700"
+                      }
+                   },
+                   "DELIVERY":{
+                      "rating_type":"DELIVERY",
+                      "rating":"3.7",
+                      "reviewCount":"115",
+                      "reviewTextSmall":"115 Reviews",
+                      "subtext":"115 Delivery Reviews",
+                      "color":"#E23744",
+                      "ratingV2":"3.7",
+                      "subtitle":"DELIVERY",
+                      "sideSubTitle":"Delivery Reviews",
+                      "bgColorV2":{
+                         "type":"green",
+                         "tint":"600"
+                      },
+                      "newOnDelivery":false
+                   }
+                }
+             },
+             "url":"https:\/\/www.zomato.com\/ncr\/kampai-aerocity-new-delhi",
+             "trackingData":[
+                {
+                   "key":"banner_id",
+                   "value":"1715135"
+                },
+                {
+                   "key":"bzone",
+                   "value":"19918"
+                },
+                {
+                   "key":"campaign_id",
+                   "value":"10607586"
+                },
+                {
+                   "key":"category_id",
+                   "value":"1"
+                },
+                {
+                   "key":"location_type",
+                   "value":"city"
+                },
+                {
+                   "key":"location_id",
+                   "value":"1"
+                },
+                {
+                   "key":"display_page",
+                   "value":"restaurant"
+                },
+                {
+                   "key":"entity_type",
+                   "value":"restaurant"
+                },
+                {
+                   "key":"entity_id",
+                   "value":"18808498"
+                },
+                {
+                   "key":"isNewAd",
+                   "value":"34"
+                },
+                {
+                   "key":"ad_position",
+                   "value":"2"
+                },
+                {
+                   "key":"slider_position",
+                   "value":"1"
+                },
+                {
+                   "key":"slider_sequence",
+                   "value":"1"
+                },
+                {
+                   "key":"creative_id",
+                   "value":"0"
+                },
+                {
+                   "key":"collection_id",
+                   "value":"0"
+                },
+                {
+                   "key":"data",
+                   "value":"{\"similarity_score\":0.5378289818763733,\"cpc\":\"24.298008\",\"leader_type\":\"restaurant\",\"leader_id\":19467764}"
+                }
+             ]
+          },
+          "1841953":{
+             "bannerId":1841953,
+             "title":"Unplugged Courtyard",
+             "subtitle":"North Indian, Chinese, Turkish, Sushi, Salad, Pizza, Biryani, Beverages",
+             "imageUrl":"https:\/\/b.zmtcdn.com\/data\/pictures\/0\/18863320\/f2708e09ed0f1105a2fad1954b368b5e_featured_v2.jpg?output-format=webp",
+             "rating":{
+                "has_fake_reviews":0,
+                "aggregate_rating":"4.4",
+                "rating_text":"4.4",
+                "rating_subtitle":"Very Good",
+                "rating_color":"5BA829",
+                "votes":"1,599",
+                "subtext":"REVIEW",
+                "is_new":false
+             },
+             "rating_new":{
+                "newlyOpenedObj":null,
+                "suspiciousReviewObj":null,
+                "ratings":{
+                   "DINING":{
+                      "rating_type":"DINING",
+                      "rating":"4.4",
+                      "reviewCount":"1,588",
+                      "reviewTextSmall":"1,588 Reviews",
+                      "subtext":"1,588 Dining Reviews",
+                      "color":"#1C1C1C",
+                      "ratingV2":"4.4",
+                      "subtitle":"DINING",
+                      "sideSubTitle":"Dining Reviews",
+                      "bgColorV2":{
+                         "type":"green",
+                         "tint":"700"
+                      }
+                   },
+                   "DELIVERY":{
+                      "rating_type":"DELIVERY",
+                      "rating":"",
+                      "reviewCount":"11",
+                      "reviewTextSmall":"11 Reviews",
+                      "subtext":"Does not offer Delivery",
+                      "color":"",
+                      "ratingV2":"-",
+                      "subtitle":"DELIVERY",
+                      "sideSubTitle":"Delivery Reviews",
+                      "bgColorV2":{
+                         "type":"grey",
+                         "tint":"500"
+                      },
+                      "newOnDelivery":false
+                   }
+                }
+             },
+             "url":"https:\/\/www.zomato.com\/ncr\/unplugged-courtyard-udyog-vihar",
+             "trackingData":[
+                {
+                   "key":"banner_id",
+                   "value":"1841953"
+                },
+                {
+                   "key":"bzone",
+                   "value":"20774"
+                },
+                {
+                   "key":"campaign_id",
+                   "value":"10734487"
+                },
+                {
+                   "key":"category_id",
+                   "value":"1"
+                },
+                {
+                   "key":"location_type",
+                   "value":"city"
+                },
+                {
+                   "key":"location_id",
+                   "value":"1"
+                },
+                {
+                   "key":"display_page",
+                   "value":"restaurant"
+                },
+                {
+                   "key":"entity_type",
+                   "value":"restaurant"
+                },
+                {
+                   "key":"entity_id",
+                   "value":"18863320"
+                },
+                {
+                   "key":"isNewAd",
+                   "value":"34"
+                },
+                {
+                   "key":"ad_position",
+                   "value":"3"
+                },
+                {
+                   "key":"slider_position",
+                   "value":"1"
+                },
+                {
+                   "key":"slider_sequence",
+                   "value":"1"
+                },
+                {
+                   "key":"creative_id",
+                   "value":"0"
+                },
+                {
+                   "key":"collection_id",
+                   "value":"0"
+                },
+                {
+                   "key":"data",
+                   "value":"{\"similarity_score\":0.6368230581283569,\"cpc\":\"19.940179\",\"leader_type\":\"restaurant\",\"leader_id\":19467764}"
+                }
+             ]
+          },
+          "1861691":{
+             "bannerId":1861691,
+             "title":"Caf\u00e9 Pluck - Pullman New Delhi Aerocity",
+             "subtitle":"Continental, Chinese, North Indian, Pizza, Burger, Fast Food, Desserts, Beverages",
+             "imageUrl":"https:\/\/b.zmtcdn.com\/data\/pictures\/4\/18222574\/f5c5e099e6ce7401d90381cc79198f7f_featured_v2.jpg?output-format=webp",
+             "rating":{
+                "has_fake_reviews":0,
+                "aggregate_rating":"3.8",
+                "rating_text":"3.8",
+                "rating_subtitle":"Good",
+                "rating_color":"9ACD32",
+                "votes":"520",
+                "subtext":"REVIEWS",
+                "is_new":false
+             },
+             "rating_new":{
+                "newlyOpenedObj":null,
+                "suspiciousReviewObj":null,
+                "ratings":{
+                   "DINING":{
+                      "rating_type":"DINING",
+                      "rating":"4.3",
+                      "reviewCount":"464",
+                      "reviewTextSmall":"464 Reviews",
+                      "subtext":"464 Dining Reviews",
+                      "color":"#1C1C1C",
+                      "ratingV2":"4.3",
+                      "subtitle":"DINING",
+                      "sideSubTitle":"Dining Reviews",
+                      "bgColorV2":{
+                         "type":"green",
+                         "tint":"700"
+                      }
+                   },
+                   "DELIVERY":{
+                      "rating_type":"DELIVERY",
+                      "rating":"3.2",
+                      "reviewCount":"56",
+                      "reviewTextSmall":"56 Reviews",
+                      "subtext":"56 Delivery Reviews",
+                      "color":"#E23744",
+                      "ratingV2":"3.2",
+                      "subtitle":"DELIVERY",
+                      "sideSubTitle":"Delivery Reviews",
+                      "bgColorV2":{
+                         "type":"green",
+                         "tint":"500"
+                      },
+                      "newOnDelivery":false
+                   }
+                }
+             },
+             "url":"https:\/\/www.zomato.com\/ncr\/caf\u00e9-pluck-pullman-new-delhi-aerocity-aerocity-new-delhi",
+             "trackingData":[
+                {
+                   "key":"banner_id",
+                   "value":"1861691"
+                },
+                {
+                   "key":"bzone",
+                   "value":"19918"
+                },
+                {
+                   "key":"campaign_id",
+                   "value":"10754231"
+                },
+                {
+                   "key":"category_id",
+                   "value":"1"
+                },
+                {
+                   "key":"location_type",
+                   "value":"city"
+                },
+                {
+                   "key":"location_id",
+                   "value":"1"
+                },
+                {
+                   "key":"display_page",
+                   "value":"restaurant"
+                },
+                {
+                   "key":"entity_type",
+                   "value":"restaurant"
+                },
+                {
+                   "key":"entity_id",
+                   "value":"18222574"
+                },
+                {
+                   "key":"isNewAd",
+                   "value":"34"
+                },
+                {
+                   "key":"ad_position",
+                   "value":"4"
+                },
+                {
+                   "key":"slider_position",
+                   "value":"1"
+                },
+                {
+                   "key":"slider_sequence",
+                   "value":"1"
+                },
+                {
+                   "key":"creative_id",
+                   "value":"0"
+                },
+                {
+                   "key":"collection_id",
+                   "value":"0"
+                },
+                {
+                   "key":"data",
+                   "value":"{\"similarity_score\":0.6244735717773438,\"cpc\":\"19.780220\",\"leader_type\":\"restaurant\",\"leader_id\":19467764}"
+                }
+             ]
+          },
+          "1861690":{
+             "bannerId":1861690,
+             "title":"Quoin - Novotel New Delhi Aerocity",
+             "subtitle":"North Indian, Asian, Thai, Pizza, Bar Food",
+             "imageUrl":"https:\/\/b.zmtcdn.com\/data\/pictures\/7\/18224527\/2531a1b4995effaa31b31a9427e7ba96_featured_v2.jpg?output-format=webp",
+             "rating":{
+                "has_fake_reviews":0,
+                "aggregate_rating":"4.6",
+                "rating_text":"4.6",
+                "rating_subtitle":"Excellent",
+                "rating_color":"3F7E00",
+                "votes":"497",
+                "subtext":"REVIEWS",
+                "is_new":false
+             },
+             "rating_new":{
+                "newlyOpenedObj":null,
+                "suspiciousReviewObj":null,
+                "ratings":{
+                   "DINING":{
+                      "rating_type":"DINING",
+                      "rating":"4.6",
+                      "reviewCount":"497",
+                      "reviewTextSmall":"497 Reviews",
+                      "subtext":"497 Dining Reviews",
+                      "color":"#1C1C1C",
+                      "ratingV2":"4.6",
+                      "subtitle":"DINING",
+                      "sideSubTitle":"Dining Reviews",
+                      "bgColorV2":{
+                         "type":"green",
+                         "tint":"800"
+                      }
+                   },
+                   "DELIVERY":{
+                      "rating_type":"DELIVERY",
+                      "rating":"",
+                      "reviewCount":"0",
+                      "reviewTextSmall":"0 Reviews",
+                      "subtext":"Does not offer Delivery",
+                      "color":"",
+                      "ratingV2":"-",
+                      "subtitle":"DELIVERY",
+                      "sideSubTitle":"Delivery Reviews",
+                      "bgColorV2":{
+                         "type":"grey",
+                         "tint":"500"
+                      },
+                      "newOnDelivery":false
+                   }
+                }
+             },
+             "url":"https:\/\/www.zomato.com\/ncr\/quoin-novotel-new-delhi-aerocity-aerocity-new-delhi",
+             "trackingData":[
+                {
+                   "key":"banner_id",
+                   "value":"1861690"
+                },
+                {
+                   "key":"bzone",
+                   "value":"19918"
+                },
+                {
+                   "key":"campaign_id",
+                   "value":"10754230"
+                },
+                {
+                   "key":"category_id",
+                   "value":"1"
+                },
+                {
+                   "key":"location_type",
+                   "value":"city"
+                },
+                {
+                   "key":"location_id",
+                   "value":"1"
+                },
+                {
+                   "key":"display_page",
+                   "value":"restaurant"
+                },
+                {
+                   "key":"entity_type",
+                   "value":"restaurant"
+                },
+                {
+                   "key":"entity_id",
+                   "value":"18224527"
+                },
+                {
+                   "key":"isNewAd",
+                   "value":"34"
+                },
+                {
+                   "key":"ad_position",
+                   "value":"5"
+                },
+                {
+                   "key":"slider_position",
+                   "value":"1"
+                },
+                {
+                   "key":"slider_sequence",
+                   "value":"1"
+                },
+                {
+                   "key":"creative_id",
+                   "value":"0"
+                },
+                {
+                   "key":"collection_id",
+                   "value":"0"
+                },
+                {
+                   "key":"data",
+                   "value":"{\"similarity_score\":0.5987957119941711,\"cpc\":\"19.780220\",\"leader_type\":\"restaurant\",\"leader_id\":19467764}"
+                }
+             ]
+          },
+          "1861689":{
+             "bannerId":1861689,
+             "title":"Pling",
+             "subtitle":"Bar Food, North Indian",
+             "imageUrl":"https:\/\/b.zmtcdn.com\/data\/pictures\/2\/18219532\/c674f68151d195fe9c04e3c53f85fb53_featured_v2.jpg?output-format=webp",
+             "rating":{
+                "has_fake_reviews":0,
+                "aggregate_rating":"4.6",
+                "rating_text":"4.6",
+                "rating_subtitle":"Excellent",
+                "rating_color":"3F7E00",
+                "votes":"291",
+                "subtext":"REVIEWS",
+                "is_new":false
+             },
+             "rating_new":{
+                "newlyOpenedObj":null,
+                "suspiciousReviewObj":null,
+                "ratings":{
+                   "DINING":{
+                      "rating_type":"DINING",
+                      "rating":"4.6",
+                      "reviewCount":"291",
+                      "reviewTextSmall":"291 Reviews",
+                      "subtext":"291 Dining Reviews",
+                      "color":"#1C1C1C",
+                      "ratingV2":"4.6",
+                      "subtitle":"DINING",
+                      "sideSubTitle":"Dining Reviews",
+                      "bgColorV2":{
+                         "type":"green",
+                         "tint":"800"
+                      }
+                   },
+                   "DELIVERY":{
+                      "rating_type":"DELIVERY",
+                      "rating":"",
+                      "reviewCount":"0",
+                      "reviewTextSmall":"0 Reviews",
+                      "subtext":"Does not offer Delivery",
+                      "color":"",
+                      "ratingV2":"-",
+                      "subtitle":"DELIVERY",
+                      "sideSubTitle":"Delivery Reviews",
+                      "bgColorV2":{
+                         "type":"grey",
+                         "tint":"500"
+                      },
+                      "newOnDelivery":false
+                   }
+                }
+             },
+             "url":"https:\/\/www.zomato.com\/ncr\/pling-aerocity-new-delhi",
+             "trackingData":[
+                {
+                   "key":"banner_id",
+                   "value":"1861689"
+                },
+                {
+                   "key":"bzone",
+                   "value":"19918"
+                },
+                {
+                   "key":"campaign_id",
+                   "value":"10754229"
+                },
+                {
+                   "key":"category_id",
+                   "value":"1"
+                },
+                {
+                   "key":"location_type",
+                   "value":"city"
+                },
+                {
+                   "key":"location_id",
+                   "value":"1"
+                },
+                {
+                   "key":"display_page",
+                   "value":"restaurant"
+                },
+                {
+                   "key":"entity_type",
+                   "value":"restaurant"
+                },
+                {
+                   "key":"entity_id",
+                   "value":"18219532"
+                },
+                {
+                   "key":"isNewAd",
+                   "value":"34"
+                },
+                {
+                   "key":"ad_position",
+                   "value":"6"
+                },
+                {
+                   "key":"slider_position",
+                   "value":"1"
+                },
+                {
+                   "key":"slider_sequence",
+                   "value":"1"
+                },
+                {
+                   "key":"creative_id",
+                   "value":"0"
+                },
+                {
+                   "key":"collection_id",
+                   "value":"0"
+                },
+                {
+                   "key":"data",
+                   "value":"{\"similarity_score\":0.5874471068382263,\"cpc\":\"19.780220\",\"leader_type\":\"restaurant\",\"leader_id\":19467764}"
+                }
+             ]
+          }
+       },
+       "POSITIVE_TAGS":{
+          "168462":{
+             "id":168462,
+             "text":"yummilicious cakes"
+          },
+          "183352":{
+             "id":183352,
+             "text":"worth the money"
+          },
+          "184016":{
+             "id":184016,
+             "text":"cake"
+          },
+          "294613":{
+             "id":294613,
+             "text":"wonderful presentation"
+          },
+          "367108":{
+             "id":367108,
+             "text":"economical price"
+          },
+          "736623":{
+             "id":736623,
+             "text":"perfect presentation"
+          },
+          "193136":{
+             "id":193136,
+             "text":"cashless payments"
+          }
+       },
+       "RATING":{
+          "605525889":{
+             "text":"Excellent",
+             "ratingColor":"#305d02",
+             "ratingId":605525889,
+             "rating":5,
+             "ratingV2":"5",
+             "bgColorV2":{
+                "type":"green",
+                "tint":"800"
+             },
+             "ratingV2Text":"DELIVERY",
+             "experience":"delivery"
+          },
+          "316340168":{
+             "text":"Excellent",
+             "ratingColor":"#305d02",
+             "ratingId":316340168,
+             "rating":5,
+             "ratingV2":"5",
+             "bgColorV2":{
+                "type":"green",
+                "tint":"800"
+             },
+             "ratingV2Text":"DELIVERY",
+             "experience":"delivery"
+          }
+       },
+       "REVIEWS":{
+          "119203165":{
+             "status":"success",
+             "message":"",
+             "reviewId":119203165,
+             "reviewText":"Recently on occasion of Halloween I ordered cake from this outlet along with fruit jar cake . Packaging was fabulous . I ordered red velvet cake which was fresh , soft and delicious \u2026 highly recommended!! ",
+             "reviewTextSm":"",
+             "userName":"Passionate Foodie",
+             "userProfilePic":"https:\/\/b.zmtcdn.com\/data\/user_profile_pictures\/7df\/65a0534b127ce3f35faa54b82caaa7df.jpg?fit=around%7C100%3A100&crop=100%3A100%3B%2A%2C%2A",
+             "userProfileUrl":"https:\/\/www.zomato.com\/instaru05",
+             "userImagePlaceholder":"https:\/\/b.zmtcdn.com\/images\/placeholder_200.png?output-format=webp",
+             "reviewUserId":20483692,
+             "urbanspoonStatus":0,
+             "userReviewsCount":190,
+             "userFollowersCount":102,
+             "isFollowed":false,
+             "timestamp":"6 months ago",
+             "likeCount":0,
+             "isLikedByUser":false,
+             "comments":[
+                
+             ],
+             "managementComments":[
+                
+             ],
+             "moreManagementComments":false,
+             "commentCount":0,
+             "moreComments":false,
+             "reviewPhotos":{
+                "entities":[
+                   {
+                      "entity_type":"IMAGES",
+                      "entity_ids":[
+                         "u_Dk0MDM1MTg3Njc"
+                      ]
+                   }
+                ]
+             },
+             "reviewTags":{
+                "positive":{
+                   "168462":"yummilicious cakes",
+                   "183352":"worth the money",
+                   "184016":"cake",
+                   "294613":"wonderful presentation",
+                   "367108":"economical price",
+                   "736623":"perfect presentation"
+                }
+             },
+             "reviewUrl":"https:\/\/www.zoma.to\/PYnrAER",
+             "externalUrl":"",
+             "externalHost":"",
+             "externalHostText":"",
+             "isEditable":false,
+             "experience":"delivery",
+             "newRatingColor":"#ED5A6B",
+             "ratingV2":"5",
+             "bgColorV2":{
+                "type":"green",
+                "tint":"800"
+             },
+             "ratingV2Text":"DELIVERY",
+             "positiveReviewTags":{
+                "entities":[
+                   {
+                      "entity_type":"POSITIVE_TAGS",
+                      "entity_ids":[
+                         168462,
+                         183352,
+                         184016,
+                         294613,
+                         367108,
+                         736623
+                      ]
+                   }
+                ]
+             },
+             "rating":{
+                "entities":[
+                   {
+                      "entity_type":"RATING",
+                      "entity_ids":[
+                         605525889
+                      ]
+                   }
+                ]
+             }
+          },
+          "67297521":{
+             "status":"success",
+             "message":"",
+             "reviewId":67297521,
+             "reviewText":"I ordered a cake for our housewarming part from this place. I was really amazed with the quality and the cake was really beautiful i am adding a photo of it. Thank you for such a great cake and it was really delivered safely. Thank you.",
+             "reviewTextSm":"",
+             "userName":"Himanshu Tanwar",
+             "userProfilePic":"https:\/\/b.zmtcdn.com\/data\/user_profile_pictures\/dfc\/c85cec40ee708d8bcfa8c20314aa8dfc.jpg?fit=around%7C100%3A100&crop=100%3A100%3B%2A%2C%2A",
+             "userProfileUrl":"https:\/\/www.zomato.com\/users\/himanshu-tanwar-112601671",
+             "userImagePlaceholder":"https:\/\/b.zmtcdn.com\/images\/placeholder_200.png?output-format=webp",
+             "reviewUserId":112601671,
+             "urbanspoonStatus":0,
+             "userReviewsCount":224,
+             "userFollowersCount":173,
+             "isFollowed":false,
+             "timestamp":"Jun 25, 2021",
+             "likeCount":1,
+             "isLikedByUser":false,
+             "comments":[
+                
+             ],
+             "managementComments":[
+                
+             ],
+             "moreManagementComments":false,
+             "commentCount":0,
+             "moreComments":false,
+             "reviewPhotos":{
+                "entities":[
+                   {
+                      "entity_type":"IMAGES",
+                      "entity_ids":[
+                         "u_zI2NDUxODcxMDM"
+                      ]
+                   }
+                ]
+             },
+             "reviewTags":{
+                "positive":{
+                   "168462":"yummilicious cakes",
+                   "193136":"cashless payments",
+                   "367108":"economical price",
+                   "736623":"perfect presentation"
+                }
+             },
+             "reviewUrl":"https:\/\/www.zoma.to\/DDQMvem",
+             "externalUrl":"",
+             "externalHost":"",
+             "externalHostText":"",
+             "isEditable":false,
+             "experience":"delivery",
+             "newRatingColor":"#ED5A6B",
+             "ratingV2":"5",
+             "bgColorV2":{
+                "type":"green",
+                "tint":"800"
+             },
+             "ratingV2Text":"DELIVERY",
+             "positiveReviewTags":{
+                "entities":[
+                   {
+                      "entity_type":"POSITIVE_TAGS",
+                      "entity_ids":[
+                         168462,
+                         193136,
+                         367108,
+                         736623
+                      ]
+                   }
+                ]
+             },
+             "rating":{
+                "entities":[
+                   {
+                      "entity_type":"RATING",
+                      "entity_ids":[
+                         316340168
+                      ]
+                   }
+                ]
+             }
+          }
+       },
+       "RESTAURANTS":{
+          "18161569":{
+             "name":"Beyond Breads",
+             "rating":{
+                "has_fake_reviews":0,
+                "aggregate_rating":"4.1",
+                "rating_text":"4.1",
+                "rating_subtitle":"Very Good",
+                "rating_color":"5BA829",
+                "votes":"2,149",
+                "subtext":"REVIEWS",
+                "is_new":false
+             },
+             "rating_new":{
+                "newlyOpenedObj":null,
+                "suspiciousReviewObj":null,
+                "ratings":{
+                   "DINING":{
+                      "rating_type":"DINING",
+                      "rating":"",
+                      "reviewCount":"0",
+                      "reviewTextSmall":"0 Reviews",
+                      "subtext":"Does not offer Dining",
+                      "color":"",
+                      "ratingV2":"-",
+                      "subtitle":"DINING",
+                      "sideSubTitle":"Dining Reviews",
+                      "bgColorV2":{
+                         "type":"grey",
+                         "tint":"500"
+                      }
+                   },
+                   "DELIVERY":{
+                      "rating_type":"DELIVERY",
+                      "rating":"4.1",
+                      "reviewCount":"2,149",
+                      "reviewTextSmall":"2,149 Reviews",
+                      "subtext":"2,149 Delivery Reviews",
+                      "color":"#E23744",
+                      "ratingV2":"4.1",
+                      "subtitle":"DELIVERY",
+                      "sideSubTitle":"Delivery Reviews",
+                      "bgColorV2":{
+                         "type":"green",
+                         "tint":"700"
+                      },
+                      "newOnDelivery":false
+                   }
+                }
+             },
+             "cuisines":"Bakery, Desserts",
+             "location":{
+                "city_id":1,
+                "city":"Gurgaon",
+                "dark_kitchen":false,
+                "locality_verbose":"Sector 39, Gurgaon",
+                "subzone_name":"Sector 39",
+                "country_id":1,
+                "latitude":"28.4399983127",
+                "longitude":"77.0532084256",
+                "map_url":"https:\/\/maps.zomato.com\/php\/staticmap?center=28.4399983127,77.0532084256&maptype=zomato&markers=28.4399983127,77.0532084256,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+                "address":"Plot 1, Village Jharsa, Near Durga Mata Mandir, Sector 39, Gurgaon"
+             },
+             "thumb":{
+                "url":"https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/2\/301302\/6f7ae5f2d36b927efd16eeb24f4731a2_featured_v2.jpg?output-format=webp",
+                "url_with_params":"https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/2\/301302\/6f7ae5f2d36b927efd16eeb24f4731a2_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A&output-format=webp"
+             },
+             "url":"https:\/\/www.zomato.com\/ncr\/beyond-breads-1-sector-39"
+          },
+          "18462214":{
+             "name":"Bakingo",
+             "rating":{
+                "has_fake_reviews":0,
+                "aggregate_rating":"4.3",
+                "rating_text":"4.3",
+                "rating_subtitle":"Very Good",
+                "rating_color":"5BA829",
+                "votes":"10.5K",
+                "subtext":"REVIEWS",
+                "is_new":false
+             },
+             "rating_new":{
+                "newlyOpenedObj":null,
+                "suspiciousReviewObj":null,
+                "ratings":{
+                   "DINING":{
+                      "rating_type":"DINING",
+                      "rating":"",
+                      "reviewCount":"0",
+                      "reviewTextSmall":"0 Reviews",
+                      "subtext":"Does not offer Dining",
+                      "color":"",
+                      "ratingV2":"-",
+                      "subtitle":"DINING",
+                      "sideSubTitle":"Dining Reviews",
+                      "bgColorV2":{
+                         "type":"grey",
+                         "tint":"500"
+                      }
+                   },
+                   "DELIVERY":{
+                      "rating_type":"DELIVERY",
+                      "rating":"4.3",
+                      "reviewCount":"10.5K",
+                      "reviewTextSmall":"10.5K Reviews",
+                      "subtext":"10.5K Delivery Reviews",
+                      "color":"#E23744",
+                      "ratingV2":"4.3",
+                      "subtitle":"DELIVERY",
+                      "sideSubTitle":"Delivery Reviews",
+                      "bgColorV2":{
+                         "type":"green",
+                         "tint":"700"
+                      },
+                      "newOnDelivery":false
+                   }
+                }
+             },
+             "cuisines":"Bakery, Desserts",
+             "location":{
+                "city_id":1,
+                "city":"Gurgaon",
+                "dark_kitchen":false,
+                "locality_verbose":"Sector 14, Gurgaon",
+                "subzone_name":"Sector 14",
+                "country_id":1,
+                "latitude":"28.4704000000",
+                "longitude":"77.0444100000",
+                "map_url":"https:\/\/maps.zomato.com\/php\/staticmap?center=28.4704000000,77.0444100000&maptype=zomato&markers=28.4704000000,77.0444100000,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+                "address":"C2, Old DLF Colony, Sector 14, Gurgaon"
+             },
+             "thumb":{
+                "url":"https:\/\/b.zmtcdn.com\/data\/pictures\/4\/18462214\/c911f41b31cf79bab0890e5031f359d3_featured_v2.jpg?output-format=webp",
+                "url_with_params":"https:\/\/b.zmtcdn.com\/data\/pictures\/4\/18462214\/c911f41b31cf79bab0890e5031f359d3_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A&output-format=webp"
+             },
+             "url":"https:\/\/www.zomato.com\/ncr\/bakingo-sector-14"
+          },
+          "18578057":{
+             "name":"The Cake Company",
+             "rating":{
+                "has_fake_reviews":0,
+                "aggregate_rating":"4.0",
+                "rating_text":"4.0",
+                "rating_subtitle":"Very Good",
+                "rating_color":"5BA829",
+                "votes":"4,174",
+                "subtext":"REVIEWS",
+                "is_new":false
+             },
+             "rating_new":{
+                "newlyOpenedObj":null,
+                "suspiciousReviewObj":null,
+                "ratings":{
+                   "DINING":{
+                      "rating_type":"DINING",
+                      "rating":"",
+                      "reviewCount":"0",
+                      "reviewTextSmall":"0 Reviews",
+                      "subtext":"Does not offer Dining",
+                      "color":"",
+                      "ratingV2":"-",
+                      "subtitle":"DINING",
+                      "sideSubTitle":"Dining Reviews",
+                      "bgColorV2":{
+                         "type":"grey",
+                         "tint":"500"
+                      }
+                   },
+                   "DELIVERY":{
+                      "rating_type":"DELIVERY",
+                      "rating":"4.0",
+                      "reviewCount":"4,174",
+                      "reviewTextSmall":"4,174 Reviews",
+                      "subtext":"4,174 Delivery Reviews",
+                      "color":"#E23744",
+                      "ratingV2":"4.0",
+                      "subtitle":"DELIVERY",
+                      "sideSubTitle":"Delivery Reviews",
+                      "bgColorV2":{
+                         "type":"green",
+                         "tint":"600"
+                      },
+                      "newOnDelivery":false
+                   }
+                }
+             },
+             "cuisines":"Bakery, Desserts",
+             "location":{
+                "city_id":1,
+                "city":"Gurgaon",
+                "dark_kitchen":false,
+                "locality_verbose":"DLF Phase 1, Gurgaon",
+                "subzone_name":"DLF Phase 1",
+                "country_id":1,
+                "latitude":"28.4732687084",
+                "longitude":"77.0923388377",
+                "map_url":"https:\/\/maps.zomato.com\/php\/staticmap?center=28.4732687084,77.0923388377&maptype=zomato&markers=28.4732687084,77.0923388377,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+                "address":"A 55\/13, Near DT Mega Mall, DLF Phase 1, Gurgaon"
+             },
+             "thumb":{
+                "url":"https:\/\/b.zmtcdn.com\/data\/pictures\/7\/18578057\/954ddca405fdff8a4fbb90db46f43b98_featured_v2.jpg?output-format=webp",
+                "url_with_params":"https:\/\/b.zmtcdn.com\/data\/pictures\/7\/18578057\/954ddca405fdff8a4fbb90db46f43b98_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A&output-format=webp"
+             },
+             "url":"https:\/\/www.zomato.com\/ncr\/the-cake-company-dlf-phase-1"
+          },
+          "18291476":{
+             "name":"Cake Maker",
+             "rating":{
+                "has_fake_reviews":0,
+                "aggregate_rating":"4.3",
+                "rating_text":"4.3",
+                "rating_subtitle":"Very Good",
+                "rating_color":"5BA829",
+                "votes":"3,476",
+                "subtext":"REVIEWS",
+                "is_new":false
+             },
+             "rating_new":{
+                "newlyOpenedObj":null,
+                "suspiciousReviewObj":null,
+                "ratings":{
+                   "DINING":{
+                      "rating_type":"DINING",
+                      "rating":"",
+                      "reviewCount":"0",
+                      "reviewTextSmall":"0 Reviews",
+                      "subtext":"Does not offer Dining",
+                      "color":"",
+                      "ratingV2":"-",
+                      "subtitle":"DINING",
+                      "sideSubTitle":"Dining Reviews",
+                      "bgColorV2":{
+                         "type":"grey",
+                         "tint":"500"
+                      }
+                   },
+                   "DELIVERY":{
+                      "rating_type":"DELIVERY",
+                      "rating":"4.3",
+                      "reviewCount":"3,476",
+                      "reviewTextSmall":"3,476 Reviews",
+                      "subtext":"3,476 Delivery Reviews",
+                      "color":"#E23744",
+                      "ratingV2":"4.3",
+                      "subtitle":"DELIVERY",
+                      "sideSubTitle":"Delivery Reviews",
+                      "bgColorV2":{
+                         "type":"green",
+                         "tint":"700"
+                      },
+                      "newOnDelivery":false
+                   }
+                }
+             },
+             "cuisines":"Bakery, Desserts",
+             "location":{
+                "city_id":1,
+                "city":"Gurgaon",
+                "dark_kitchen":false,
+                "locality_verbose":"Sector 14, Gurgaon",
+                "subzone_name":"Sector 14",
+                "country_id":1,
+                "latitude":"28.4741800000",
+                "longitude":"77.0424167000",
+                "map_url":"https:\/\/maps.zomato.com\/php\/staticmap?center=28.4741800000,77.0424167000&maptype=zomato&markers=28.4741800000,77.0424167000,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+                "address":"2322\/3, Ground Floor, Excel House, Old Delhi Road, Opposite Air Force School, Sector 14, Gurgaon"
+             },
+             "thumb":{
+                "url":"https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/6\/18291476\/ac347ab216640e53319bfaa60ac1a47e_featured_v2.jpg?output-format=webp",
+                "url_with_params":"https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/6\/18291476\/ac347ab216640e53319bfaa60ac1a47e_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A&output-format=webp"
+             },
+             "url":"https:\/\/www.zomato.com\/ncr\/cake-maker-sector-14"
+          },
+          "19252175":{
+             "name":"24 Hour Cake",
+             "rating":{
+                "has_fake_reviews":0,
+                "aggregate_rating":"3.5",
+                "rating_text":"3.5",
+                "rating_subtitle":"Good",
+                "rating_color":"9ACD32",
+                "votes":"7",
+                "subtext":"REVIEWS",
+                "is_new":false
+             },
+             "rating_new":{
+                "newlyOpenedObj":null,
+                "suspiciousReviewObj":null,
+                "ratings":{
+                   "DINING":{
+                      "rating_type":"DINING",
+                      "rating":"",
+                      "reviewCount":"0",
+                      "reviewTextSmall":"0 Reviews",
+                      "subtext":"Does not offer Dining",
+                      "color":"",
+                      "ratingV2":"-",
+                      "subtitle":"DINING",
+                      "sideSubTitle":"Dining Reviews",
+                      "bgColorV2":{
+                         "type":"grey",
+                         "tint":"500"
+                      }
+                   },
+                   "DELIVERY":{
+                      "rating_type":"DELIVERY",
+                      "rating":"3.5",
+                      "reviewCount":"7",
+                      "reviewTextSmall":"7 Reviews",
+                      "subtext":"7 Delivery Reviews",
+                      "color":"#E23744",
+                      "ratingV2":"3.5",
+                      "subtitle":"DELIVERY",
+                      "sideSubTitle":"Delivery Reviews",
+                      "bgColorV2":{
+                         "type":"green",
+                         "tint":"500"
+                      },
+                      "newOnDelivery":false
+                   }
+                }
+             },
+             "cuisines":"Bakery",
+             "location":{
+                "city_id":1,
+                "city":"Gurgaon",
+                "dark_kitchen":false,
+                "locality_verbose":"DLF Phase 3, Gurgaon",
+                "subzone_name":"DLF Phase 3",
+                "country_id":1,
+                "latitude":"28.4988603000",
+                "longitude":"77.0972228000",
+                "map_url":"https:\/\/maps.zomato.com\/php\/staticmap?center=28.4988603000,77.0972228000&maptype=zomato&markers=28.4988603000,77.0972228000,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+                "address":"Khasra 404, Opposite MA 28 A, DLF Phase 3, Gurgaon"
+             },
+             "thumb":{
+                "url":"https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/9\/18961629\/6b85d13b0f052738ea948b0cf3c1af1b_featured_v2.jpg?output-format=webp",
+                "url_with_params":"https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/9\/18961629\/6b85d13b0f052738ea948b0cf3c1af1b_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A&output-format=webp"
+             },
+             "url":"https:\/\/www.zomato.com\/ncr\/24-hour-cake-dlf-phase-3-gurgaon"
+          }
+       }
+    },
+    "user":{
+       "is_admin_user":false,
+       "admin_access":[
+          
+       ],
+       "admin_links":[
+          
+       ]
+    },
+    "location":{
+       "addressId":0,
+       "entityId":1,
+       "entityType":"city",
+       "locationType":"poi",
+       "isOrderLocation":1,
+       "cityId":1,
+       "latitude":"28.6257890000000000",
+       "longitude":"77.2102760000000000",
+       "userDefinedLatitude":28.625789,
+       "userDefinedLongitude":77.210276,
+       "entityName":"Ywca, 1, Ashoka Rd, Hanuman Road Area, Connaught Place, New Delhi, Delhi",
+       "orderLocationName":"Ywca, 1, Ashoka Rd, Hanuman Road Area, Connaught Place, New Delhi, Delhi",
+       "cityName":"Delhi NCR",
+       "countryId":1,
+       "countryName":"India",
+       "displayTitle":"Ywca",
+       "o2Serviceable":false,
+       "placeId":"514",
+       "cellId":"4110939063815503872",
+       "deliverySubzoneId":514,
+       "placeType":"DSZ",
+       "placeName":"Ywca, 1, Ashoka Rd, Hanuman Road Area, Connaught Place, New Delhi, Delhi",
+       "isO2City":true,
+       "fetchFromGoogle":false,
+       "fetchedFromCookie":true,
+       "locationPrompt":[
+          
+       ],
+       "isO2OnlyCity":false,
+       "addressBlocker":0,
+       "address_template":[
+          
+       ],
+       "otherRestaurantsUrl":""
+    },
+    "shouldAddTaboolaScript":false,
+    "deviceSpecificInfo":{
+       "browser":{
+          "userAgent":"Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/113.0.0.0 Safari\/537.36",
+          "name":"Chrome",
+          "version":"113.0.0.0",
+          "platform":"mac"
+       }
+    },
+    "hrefLangInfo":[
+       {
+          "link":"https:\/\/www.zomato.com\/webroutes\/getPage?page_url=\/ncr\/cake-o-clocks-mg-road&amp;location=&amp;isMobile=0",
+          "hreflang":"en",
+          "isSelected":true
+       },
+       {
+          "link":"https:\/\/www.zomato.com\/tr\/webroutes\/getPage?page_url=\/ncr\/cake-o-clocks-mg-road&amp;location=&amp;isMobile=0",
+          "hreflang":"tr",
+          "isSelected":false
+       },
+       {
+          "link":"https:\/\/www.zomato.com\/hi\/webroutes\/getPage?page_url=\/ncr\/cake-o-clocks-mg-road&amp;location=&amp;isMobile=0",
+          "hreflang":"hi",
+          "isSelected":false
+       },
+       {
+          "link":"https:\/\/www.zomato.com\/es\/webroutes\/getPage?page_url=\/ncr\/cake-o-clocks-mg-road&amp;location=&amp;isMobile=0",
+          "hreflang":"es",
+          "isSelected":false
+       },
+       {
+          "link":"https:\/\/www.zomato.com\/pt\/webroutes\/getPage?page_url=\/ncr\/cake-o-clocks-mg-road&amp;location=&amp;isMobile=0",
+          "hreflang":"pt",
+          "isSelected":false
+       },
+       {
+          "link":"https:\/\/www.zomato.com\/id\/webroutes\/getPage?page_url=\/ncr\/cake-o-clocks-mg-road&amp;location=&amp;isMobile=0",
+          "hreflang":"id",
+          "isSelected":false
+       },
+       {
+          "link":"https:\/\/www.zomato.com\/pt\/webroutes\/getPage?page_url=\/ncr\/cake-o-clocks-mg-road&amp;location=&amp;isMobile=0",
+          "hreflang":"pt",
+          "isSelected":false
+       },
+       {
+          "link":"https:\/\/www.zomato.com\/es\/webroutes\/getPage?page_url=\/ncr\/cake-o-clocks-mg-road&amp;location=&amp;isMobile=0",
+          "hreflang":"es",
+          "isSelected":false
+       },
+       {
+          "link":"https:\/\/www.zomato.com\/cs\/webroutes\/getPage?page_url=\/ncr\/cake-o-clocks-mg-road&amp;location=&amp;isMobile=0",
+          "hreflang":"cs",
+          "isSelected":false
+       },
+       {
+          "link":"https:\/\/www.zomato.com\/sk\/webroutes\/getPage?page_url=\/ncr\/cake-o-clocks-mg-road&amp;location=&amp;isMobile=0",
+          "hreflang":"sk",
+          "isSelected":false
+       },
+       {
+          "link":"https:\/\/www.zomato.com\/pl\/webroutes\/getPage?page_url=\/ncr\/cake-o-clocks-mg-road&amp;location=&amp;isMobile=0",
+          "hreflang":"pl",
+          "isSelected":false
+       },
+       {
+          "link":"https:\/\/www.zomato.com\/it\/webroutes\/getPage?page_url=\/ncr\/cake-o-clocks-mg-road&amp;location=&amp;isMobile=0",
+          "hreflang":"it",
+          "isSelected":false
+       },
+       {
+          "link":"https:\/\/www.zomato.com\/vi\/webroutes\/getPage?page_url=\/ncr\/cake-o-clocks-mg-road&amp;location=&amp;isMobile=0",
+          "hreflang":"vi",
+          "isSelected":false
+       },
+       {
+          "link":"https:\/\/www.zomato.com\/bn\/webroutes\/getPage?page_url=\/ncr\/cake-o-clocks-mg-road&amp;location=&amp;isMobile=0",
+          "hreflang":"bn",
+          "isSelected":false
+       },
+       {
+          "link":"https:\/\/www.zomato.com\/te\/webroutes\/getPage?page_url=\/ncr\/cake-o-clocks-mg-road&amp;location=&amp;isMobile=0",
+          "hreflang":"te",
+          "isSelected":false
+       },
+       {
+          "link":"https:\/\/www.zomato.com\/ta\/webroutes\/getPage?page_url=\/ncr\/cake-o-clocks-mg-road&amp;location=&amp;isMobile=0",
+          "hreflang":"ta",
+          "isSelected":false
+       },
+       {
+          "link":"https:\/\/www.zomato.com\/kn\/webroutes\/getPage?page_url=\/ncr\/cake-o-clocks-mg-road&amp;location=&amp;isMobile=0",
+          "hreflang":"kn",
+          "isSelected":false
+       },
+       {
+          "link":"https:\/\/www.zomato.com\/mr\/webroutes\/getPage?page_url=\/ncr\/cake-o-clocks-mg-road&amp;location=&amp;isMobile=0",
+          "hreflang":"mr",
+          "isSelected":false
+       },
+       {
+          "link":"https:\/\/www.zomato.com\/gu\/webroutes\/getPage?page_url=\/ncr\/cake-o-clocks-mg-road&amp;location=&amp;isMobile=0",
+          "hreflang":"gu",
+          "isSelected":false
+       },
+       {
+          "link":"https:\/\/www.zomato.com\/pa\/webroutes\/getPage?page_url=\/ncr\/cake-o-clocks-mg-road&amp;location=&amp;isMobile=0",
+          "hreflang":"pa",
+          "isSelected":false
+       },
+       {
+          "link":"https:\/\/www.zomato.com\/ml\/webroutes\/getPage?page_url=\/ncr\/cake-o-clocks-mg-road&amp;location=&amp;isMobile=0",
+          "hreflang":"ml",
+          "isSelected":false
+       },
+       {
+          "link":"https:\/\/www.zomato.com\/or\/webroutes\/getPage?page_url=\/ncr\/cake-o-clocks-mg-road&amp;location=&amp;isMobile=0",
+          "hreflang":"or",
+          "isSelected":false
+       },
+       {
+          "link":"https:\/\/www.zomato.com\/hi-en\/webroutes\/getPage?page_url=\/ncr\/cake-o-clocks-mg-road&amp;location=&amp;isMobile=0",
+          "hreflang":"hi-en",
+          "isSelected":false
+       }
+    ],
+    "pageConfig":{
+       "openAppPill":[
+          
+       ],
+       "isLocationPopupFlowAllowed":false,
+       "cacheMeta":{
+          "cacheable":false,
+          "max-age":172800,
+          "trackingData":{
+             "identifier":"19467764"
+          }
+       },
+       "hideCookieBanner":true,
+       "showRatingV2":true
+    },
+    "langKeys":{
+       "RES_INFO_TITLE":"About this place",
+       "ADDRESS_TITLE":"Address",
+       "FEATURED_IN_TITLE":"Featured in Collections",
+       "RATE_EXPERIENCE_TITLE":"Tap to rate your experience",
+       "WRITE_REVIEW_TITLE":"Write a Review",
+       "CONTACT_TITLE":"Tap a number to call",
+       "REVIEW_INPUT_LABEL":"Write your Review",
+       "REVIEW_ERROR_TOAST_MSG":"Minimum {0} tag(s) required",
+       "IMAGE_UPLOADER_DRAG_DROP_LABEL":"Drag & drop to upload or",
+       "IMAGE_UPLOADER_BROWSE_BUTTON_LABEL":"Browse",
+       "CLEAR_TEXT":"clear",
+       "VIEW_GALLERY":"View Gallery",
+       "OUR_SPONSORS_TITLE":"OUR SPONSORS",
+       "SIMILAR_RES_TITLE":"Similar Restaurants",
+       "HISTOGRAM_TITLE":"Trustworthy Reviews",
+       "HISTOGRAM_DESC":"100% genuine reviews. We weed out all the fake reviews",
+       "HISTOGRAM_TRENDS_TITLE":"Recent ratings trend",
+       "MOST_RECENT":"most recent",
+       "PEOPLE_SAY":"Review Highlights",
+       "ADD_REVIEW_TITLE":"Add Review",
+       "ORDER_TITLE":"Order Online",
+       "REVIEWS_TITLE":"Reviews",
+       "EVENT_TITLE":"Events",
+       "SEE_ALL_EVENTS_TITLE":"See all events",
+       "OPENING_HOURS":"Opening Hours",
+       "HAPPY_HOURS":"Happy Hours",
+       "CHEF_DETAILS_TITLE":"CHEF DETAILS",
+       "NO_MENU_TEXT":"We don't have a menu for this restaurant yet",
+       "EMPTY_MENU_LIST_STRING":"It's empty here!",
+       "NO_REVIEW_TEXT":"Your ratings and reviews go a long way towards helping people decide where to eat",
+       "VIEW_ALL_REVIEWS_TITLE":"View all reviews",
+       "CALCULATE_COST_TEXT":"How do we calculate cost for two?",
+       "FILTER_ALL_REVIEWS":"All Reviews",
+       "FILTER_FOLLOWING":"Following",
+       "FILTER_POPULAR":"Popular",
+       "FILTER_MY_REVIEWS":"My Reviews",
+       "FILTER_BLOGGERS_REVIEWS":"Bloggers",
+       "FILTER_ORDER_REVIEWS":"Order Reviews",
+       "SORT_NEWEST_FIRST":"Newest First",
+       "SORT_OLDEST_FIRST":"Oldest First",
+       "SORT_HIGHEST_RATED":"Highest Rated",
+       "SORT_LOWEST_RATED":"Lowest Rated",
+       "POSITIVE_TAGS":"POSITIVE",
+       "NEGATIVE_TAGS":"NEGATIVE",
+       "DAILY_MENU_TITLE":"Daily menu",
+       "DELETE_REVIEW_TEXT":"Are you sure you want to delete this review? This action cannot be undone.",
+       "DIRECTION_TITLE":"Direction",
+       "BOOKMARK_TITLE":"Bookmark",
+       "SHARE_TITLE":"Share",
+       "CALL_TEXT":"Call",
+       "COPY_TEXT":"Copy",
+       "PROMO_COPIED_TEXT":"Copied to clipboard",
+       "FEATURED_IN_TEXT":"Featured in",
+       "REVIEWS_TEXT":"reviews",
+       "FOLLOWERS_TEXT":"Followers",
+       "FOLLOW_TEXT":"Follow",
+       "LIKES_TEXT":"Votes for helpful",
+       "COMMENTS_TEXT":"Comments",
+       "LIKE_TEXT":"Helpful vote",
+       "COMMENT_TEXT":"Comment",
+       "LIKED_TEXT":"Helpful",
+       "SEE_ALL_MENUS_TEXT":"See all menus",
+       "SEE_FULL_MENU_TEXT":"See full menu",
+       "UGC_DISABLED_ERROR":"Sorry! You can only post content for operational restaurants",
+       "NUMBER_UNAVAILABLE":"Number not available",
+       "NO_SEARCH_RESULT_FOUND":"We could not understand what you mean, try rephrasing the query.",
+       "TRENDING_SEARCHES":"Trending Searches",
+       "NO_TRENDING_SEARCH":"No results found for Trending Searches",
+       "TOP_RESTAURANTS":"Top Restaurants",
+       "SEARCH_PLACEHOLDER":"Search for restaurant, cuisine or a dish",
+       "DETECT_LOCATION":"Detect current location",
+       "DETECT_LOCATION_SUBTITLE":"Using GPS",
+       "ADD_ADDRESS":"Add address",
+       "SAVED_ADDRESSES":"Saved Addresses",
+       "POPULAR_LOCATIONS":"Popular Locations",
+       "LOCATION_NO_RESULT_SUB":"Check for spelling errors or search for a nearby location",
+       "LOCATION_NO_RESULT":"No results found",
+       "SEARCH_MODAL_MOBILE_VIEW_TITLE":"Select location",
+       "GEO_LOCATION_NO_BROWSER_SUPPORT":"Seems like, Your browser does not support Geolocation.",
+       "GEO_LOCATION_PERMISSION_DENIED":"Please enable location permission from settings and try again!",
+       "GEO_LOCATION_POSITION_UNAVAILABLE":"We can't locate your position, please try again!",
+       "GEO_LOCATION_TIMEOUT":"Request for location has timed out!",
+       "GEO_LOCATION_UNKNOWN_ERROR":"An unknown error occurred, Please try again!",
+       "GEO_LOCATION_DEFAULT_ERROR":"An unknown error occurred, Please try again!",
+       "PROFILE_LINK_NAME":"Profile",
+       "NOTIFICATIONS_LINK_NAME":"Notifications",
+       "BOOKMARKS_LINK_NAME":"Bookmarks",
+       "REVIEWS_LINK_NAME":"Reviews",
+       "NETWORK_LINK_NAME":"Network",
+       "FIND_FRIENDS_LINK_NAME":"Find friends",
+       "SETTINGS_LINK_NAME":"Settings",
+       "LOGOUT_LINK_NAME":"Log out",
+       "LOGIN_FAILED_TITLE":"Login Failed",
+       "SIGNUP_FAILED_TITLE":"Signup Failed",
+       "OTP_VERIFICATION_TITLE":"Enter OTP",
+       "LOGIN_TITLE":"Log in",
+       "SIGNUP_TITLE":"Sign up",
+       "SIGNUP_NAME_ERROR_MESSAGE":"Please enter a valid name",
+       "SIGNUP_EMPTY_EMAIL_ERROR_MESSAGE":"Please enter an email",
+       "SIGNUP_INVALID_EMAIL_ERROR_MESSAGE":"Invalid Email id",
+       "SIGNUP_PHONE_ERROR_MESSAGE":"Please enter phone number",
+       "SIGNUP_FULL_NAME_LABEL":"Full Name",
+       "SIGNUP_EMAIL_LABEL":"Email",
+       "SIGNUP_PHONE_LABEL":"Phone number",
+       "TERMS_OF_SERVICE_TEXT":"Terms of Service",
+       "PRIVACY_POLICY_TEXT":"Privacy Policy",
+       "CONTENT_POLICIES":"Content Policies",
+       "AGREE_TO_ZOMATO_POLICY_TEXT":"I agree to Zomato's {0}, {1} and {2}",
+       "CREATE_ACCOUNT_BUTTON_TEXT":"Create account",
+       "ALREADY_HAVE_AN_ACCOUNT_TEXT":"Already have an account? {0}",
+       "LOGIN_WITH_PHONE_ERROR":"Login with Phone number is not currently available",
+       "NEW_TO_ZOMATO_TEXT":"New to Zomato?",
+       "SEND_OTP_TEXT":"Send OTP",
+       "ERROR_MESSAAGE_BOX_TRY_OTHER_METHODS_TEXT":"Try using other methods",
+       "ERROR_MESSAAGE_BOX_SKIP_FOR_NOW_TEXT":"Skip for now",
+       "NEW_OTP_HAS_BEEN_SENT_TEXT":"A new OTP has been sent",
+       "NOT_RECEIVED_OTP_TEXT":"Didn't receive OTP?",
+       "RESEND_NOW_TEXT":"Resend Now",
+       "TERMINATE_VERIFICATION_TEXT":"Are you sure you want to terminate the verification?",
+       "YES_BUTTON_TEXT":"Yes",
+       "NO_BUTTON_TEXT":"No",
+       "CONTINUE_WITH_GOOGLE_BUTTON_TEXT":"Continue with Google",
+       "ERROR_OCCURED_TEXT":"Error occurred",
+       "OR_TEXT":"or",
+       "OTP_TEXT_BOX_LABEL":"OTP",
+       "OTP_TEXT_BOX_PROCEED_BUTTON":"Proceed",
+       "OTP_NOT_RECEIVED_TEXT":"Not received OTP? ",
+       "COOKIE_BANNER_TEXT":"By using this site you agree to Zomato&apos;s use of cookies to give you a personalised experience. Please read the <a href='\/cookiepolicy' target='_blank'> cookie policy <\/a> for more information or to delete\/block them."
+    }
+ }
