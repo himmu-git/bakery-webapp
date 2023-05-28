@@ -128,7 +128,7 @@ h1 {
   border-radius: 12px;
 }
 .cardContainer .desc {
-  max-weight: 100%;
+  max-width: 100%;
   overflow: hidden;
   display: -webkit-box;
   -webkit-line-clamp: 2; /* Limit the text to 3 lines */
